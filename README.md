@@ -1,1 +1,1 @@
-# image-processing
+This project is an implementation of CNN for fovea localization and optic disk segmentation in retunal fundus images for the course *Image Processing and Artificial Vision* at Polytechnic University of Bari.
